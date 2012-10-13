@@ -25,3 +25,15 @@ Binding(CTRL+SHIFT+I,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+
+!ENTRY org.eclipse.php.debug.core 4 4 2012-10-06 11:55:52.202
+!MESSAGE The debug port 10000 is in use. Please select a different port for the debugger.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2012-10-06 11:55:52.202
+!MESSAGE The debug port 9000 is in use. Please select a different port for the debugger.
+
+!ENTRY org.eclipse.ui 4 4 2012-10-06 12:07:04.845
+!MESSAGE Invalid preference page path: HTML Syntax
+
+!ENTRY org.eclipse.ui 4 4 2012-10-06 12:07:04.845
+!MESSAGE Invalid preference page path: XML Syntax
